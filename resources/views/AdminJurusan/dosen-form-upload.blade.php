@@ -199,6 +199,7 @@
                             </div>
                         </form>
                         <div class="text-center m-t-20">
+							<a href="/dosen"><button type="button" class="btn btn-secondary">Kembali</button></a>
                             <button class="btn btn-primary sweet-success">Upload Data</button>
                         </div>
                     </div>

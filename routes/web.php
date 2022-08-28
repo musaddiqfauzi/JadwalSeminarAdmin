@@ -43,6 +43,10 @@ Route::get('/hasilv2', function () {
     return view('AdminJurusan.hasilv2');
 });
 
+Route::get('/hasilv3', function () {
+    return view('AdminJurusan.hasilv3');
+});
+
 Route::get('/login', function () {
     return view('AdminJurusan.login');
 });

@@ -216,7 +216,7 @@
 											<input type="text" class="form-control" id="input4" value="Wireless Comm. Systems">
 										</div>
 									</div>
-									<a href="dosen"><button type="button" class="btn btn-secondary">Kembali</button></a>
+									<a href="/dosen"><button type="button" class="btn btn-secondary">Kembali</button></a>
 									<button type="button" class="btn btn-primary sweet-success">Update</button>
 								</form>
 							</div>

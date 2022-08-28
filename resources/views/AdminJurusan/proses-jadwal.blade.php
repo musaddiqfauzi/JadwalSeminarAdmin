@@ -62,7 +62,7 @@
 						<ul class="pcoded-submenu">
 							<li><a href="/kkp">Seminar KP</a></li>
 							<li><a href="/proposal">Seminar Proposal</a></li>
-							<li><a href="/hasil">Seminar Hasil</a></li>
+							<li><a href="/hasilv3">Seminar Hasil</a></li>
 							<li><a href="/sidang">Sidang</a></li>
 						</ul>
 					</li>

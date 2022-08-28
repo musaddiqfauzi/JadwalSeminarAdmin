@@ -55,13 +55,13 @@
 				</div>
 				<br>
 				<ul class="nav pcoded-inner-navbar ">
-					<li class="nav-item"><a href="/index" class="nav-link "><span class="pcoded-micon"><i class="feather icon-home"></i></span><span class="pcoded-mtext">Beranda</span></a></li>
+					<li class="nav-item"><a href="/indexv2" class="nav-link "><span class="pcoded-micon"><i class="feather icon-home"></i></span><span class="pcoded-mtext">Beranda</span></a></li>
 					<li class="nav-item pcoded-hasmenu">
 						<a href="#!" class="nav-link "><span class="pcoded-micon"><i class="feather icon-file-text"></i></span><span class="pcoded-mtext">Seminar</span></a>
 						<ul class="pcoded-submenu">
 							<li><a href="/kkp">Seminar KP</a></li>
 							<li><a href="/proposal">Seminar Proposal</a></li>
-							<li><a href="/hasilv2">Seminar Hasil</a></li>
+							<li><a href="/hasilv3">Seminar Hasil</a></li>
 							<li><a href="/sidang">Sidang</a></li>
 						</ul>
 					</li>
@@ -175,7 +175,7 @@
                             <h5 class="m-b-10">Seminar Hasil</h5>
                         </div>
                         <ul class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="/index"><i class="feather icon-home"></i></a></li>
+                            <li class="breadcrumb-item"><a href="/indexv2"><i class="feather icon-home"></i></a></li>
                             <li class="breadcrumb-item"><a href="#!">Seminar</a></li>
                             <li class="breadcrumb-item"><a href="#!">Seminar Hasil</a></li>
                         </ul>
@@ -213,12 +213,8 @@
                                     
 									<!-- 01 -->
 									<tr>
-										<td>
-											<a href="/proses-jadwal">
-												<button type="button" class="btn btn-sm btn-success"><i class="feather icon-check-circle"></i> Proses</button>
-											</a>
-										</td>
-										<td><label class="badge badge-light-info">Diproses</label></td>
+										<td><label class="badge badge-light-success">Selesai</label></td>
+										<td><b><p class="text-success">Selasa, 26 Juli 2022 <br> 08.00 -10.30 AM</p></b></td>
                                         <td>
 											<div class="d-inline-block">
 												<h6>Musaddiq Fauzi</h6>
